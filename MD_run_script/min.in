@@ -1,0 +1,9 @@
+Minimisation
+&cntrl
+imin=1,
+maxcyc=4000,
+ncyc=2000,
+ntb=0,
+cut=999,
+igb=8,
+/

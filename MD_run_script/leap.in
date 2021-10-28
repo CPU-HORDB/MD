@@ -1,0 +1,5 @@
+source leaprc.protein.ff19SB
+set default PBRadii mbondi3
+pep=sequence{ ACE LYS ALA ALA LYS ALA LYS ALA NME }
+saveamberparm pep pep.top pep.crd
+quit
