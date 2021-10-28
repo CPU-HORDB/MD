@@ -1,0 +1,6 @@
+MD_run_script filter=lfs diff=lfs merge=lfs -text
+P2 filter=lfs diff=lfs merge=lfs -text
+P3 filter=lfs diff=lfs merge=lfs -text
+P5 filter=lfs diff=lfs merge=lfs -text
+P6 filter=lfs diff=lfs merge=lfs -text
+all_know_ACPs_100.fasta filter=lfs diff=lfs merge=lfs -text
