@@ -3,4 +3,4 @@ MD_run_script #A directory for storing scripts and parameter files of molecular 
 
 P* #Directory where the output files of peptide molecular dynamics simulations are stored
 
-all_known_ACPs_100.fasta #known ACPs data set file
+all-ACPs-100.fasta #known ACPs data set file
